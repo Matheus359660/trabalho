@@ -5,5 +5,5 @@ function Ligar(){
 
 function Desligar(){
     document.getElementById("TV").src ="off.png"
-    console.log("Off")
+    console.log("off")
 }
